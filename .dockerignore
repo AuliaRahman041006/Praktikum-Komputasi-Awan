@@ -1,0 +1,4 @@
+.git
+Jenkinsfile
+__pycache__
+*.pyc
